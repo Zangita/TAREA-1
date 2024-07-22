@@ -4,7 +4,7 @@ const numero2= 10;
 let resultado;
 
 //suma
-resultado = numero1 + numero2;
+resultado = numero1 + numero2
 console.log(resultado);
 
 //resta
